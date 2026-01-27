@@ -200,5 +200,37 @@ export const products: Product[] = [
     image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/025ab5df-8083-488f-95b8-cb210c4d1a91.jpg',
     description: 'Целебная клюква с болот Сибири',
     category: 'варенье'
+  },
+  {
+    id: '26',
+    name: 'Мёд таежный',
+    price: 890,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/f0cad19c-14c0-4dda-8570-6337c314a805.jpg',
+    description: 'Натуральный мёд с таежных пасек, собранный с диких цветов',
+    category: 'мёд'
+  },
+  {
+    id: '27',
+    name: 'Мёд с кедровой живицей',
+    price: 1200,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/f0cad19c-14c0-4dda-8570-6337c314a805.jpg',
+    description: 'Уникальное сочетание меда и целебной кедровой смолы',
+    category: 'мёд'
+  },
+  {
+    id: '28',
+    name: 'Орех кедровый',
+    price: 650,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7b88e8c4-7f84-492f-a906-6c15063fdb77.jpg',
+    description: 'Отборные кедровые орехи из сибирской тайги',
+    category: 'орехи'
+  },
+  {
+    id: '29',
+    name: 'Орех лесной (фундук)',
+    price: 480,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7b88e8c4-7f84-492f-a906-6c15063fdb77.jpg',
+    description: 'Дикий лесной орех, богатый витаминами',
+    category: 'орехи'
   }
 ];
