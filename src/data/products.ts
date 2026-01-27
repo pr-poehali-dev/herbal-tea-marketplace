@@ -144,5 +144,61 @@ export const products: Product[] = [
     image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
     description: 'Освежающий чай с мятой и лимонником для бани',
     category: 'фиточай для бани'
+  },
+  {
+    id: '19',
+    name: 'Варенье малиновое',
+    price: 450,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/26665afa-cadd-4e88-ba06-47d6ee714ec4.jpg',
+    description: 'Классическое малиновое варенье из таежных ягод',
+    category: 'варенье'
+  },
+  {
+    id: '20',
+    name: 'Варенье клубничное',
+    price: 420,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/e369c0e1-9c59-4cae-8add-b07c26ebfad8.jpg',
+    description: 'Ароматное клубничное варенье с крупными ягодами',
+    category: 'варенье'
+  },
+  {
+    id: '21',
+    name: 'Варенье облепиховое',
+    price: 480,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/b1b513dd-850f-42f9-81b8-7c3750165fd0.jpg',
+    description: 'Кладезь витаминов! Золотое облепиховое варенье',
+    category: 'варенье'
+  },
+  {
+    id: '22',
+    name: 'Варенье смородиновое',
+    price: 400,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/adc07455-7ee7-4d2b-8e3a-85085055d157.jpg',
+    description: 'Насыщенное варенье из черной смородины',
+    category: 'варенье'
+  },
+  {
+    id: '23',
+    name: 'Варенье брусничное',
+    price: 470,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/81c4556f-2df5-4088-9635-b74030ec573b.jpg',
+    description: 'Таежная брусника с легкой кислинкой',
+    category: 'варенье'
+  },
+  {
+    id: '24',
+    name: 'Варенье черничное',
+    price: 490,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/e3716da4-dee9-48ee-ad14-f763c06fc941.jpg',
+    description: 'Лесная черника для здоровья глаз',
+    category: 'варенье'
+  },
+  {
+    id: '25',
+    name: 'Варенье клюквенное',
+    price: 460,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/025ab5df-8083-488f-95b8-cb210c4d1a91.jpg',
+    description: 'Целебная клюква с болот Сибири',
+    category: 'варенье'
   }
 ];

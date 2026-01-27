@@ -25,9 +25,6 @@ export default function Header() {
             <Link to="/catalog" className="text-foreground hover:text-primary transition-colors">
               Каталог
             </Link>
-            <Link to="/bath-sauna" className="text-foreground hover:text-primary transition-colors">
-              Баня и сауна
-            </Link>
             <Link to="/about" className="text-foreground hover:text-primary transition-colors">
               О нас
             </Link>
