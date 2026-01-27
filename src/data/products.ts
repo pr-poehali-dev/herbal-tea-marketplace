@@ -64,5 +64,85 @@ export const products: Product[] = [
     image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
     description: 'Лапчатка кустарниковая для пищеварения',
     category: 'чай'
+  },
+  {
+    id: '9',
+    name: 'Веник березовый',
+    price: 450,
+    image: 'https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=500',
+    description: 'Классический березовый веник для бани. Отлично прогревает и тонизирует',
+    category: 'веники'
+  },
+  {
+    id: '10',
+    name: 'Веник пихтовый',
+    price: 550,
+    image: 'https://images.unsplash.com/photo-1542223533-0c18680c1e66?w=500',
+    description: 'Хвойный веник с целебным эффектом. Помогает при простуде',
+    category: 'веники'
+  },
+  {
+    id: '11',
+    name: 'Веник можжевеловый',
+    price: 650,
+    image: 'https://images.unsplash.com/photo-1542223533-0c18680c1e66?w=500',
+    description: 'Эксклюзивный веник из можжевельника. Дезинфицирует и омолаживает',
+    category: 'веники'
+  },
+  {
+    id: '12',
+    name: 'Веник дубовый',
+    price: 500,
+    image: 'https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=500',
+    description: 'Прочный дубовый веник для настоящих парильщиков',
+    category: 'веники'
+  },
+  {
+    id: '13',
+    name: 'Веник крапивный',
+    price: 400,
+    image: 'https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=500',
+    description: 'Лечебный крапивный веник при болях в суставах и ревматизме',
+    category: 'веники'
+  },
+  {
+    id: '14',
+    name: 'Фиточай "Банный жар"',
+    price: 320,
+    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    description: 'Бодрящий чай для бани с мятой, чабрецом и липой',
+    category: 'фиточай для бани'
+  },
+  {
+    id: '15',
+    name: 'Фиточай "Таежный пар"',
+    price: 350,
+    image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
+    description: 'Сбор хвойных трав для легкого дыхания в парной',
+    category: 'фиточай для бани'
+  },
+  {
+    id: '16',
+    name: 'Фиточай "Медовый вечер"',
+    price: 380,
+    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    description: 'Успокаивающий чай после бани с медуницей и душицей',
+    category: 'фиточай для бани'
+  },
+  {
+    id: '17',
+    name: 'Фиточай "Богатырский"',
+    price: 420,
+    image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
+    description: 'Энергетический сбор с саган-дайля и женьшенем для бани',
+    category: 'фиточай для бани'
+  },
+  {
+    id: '18',
+    name: 'Фиточай "Горный ручей"',
+    price: 340,
+    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    description: 'Освежающий чай с мятой и лимонником для бани',
+    category: 'фиточай для бани'
   }
 ];

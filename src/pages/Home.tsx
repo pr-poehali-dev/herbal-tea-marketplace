@@ -86,6 +86,47 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="py-16 bg-gradient-to-r from-primary/10 to-secondary/10">
+        <div className="container mx-auto px-4">
+          <div className="max-w-5xl mx-auto">
+            <div className="flex flex-col md:flex-row items-center gap-8">
+              <div className="flex-1 space-y-4">
+                <h2 className="text-4xl font-bold">Баня и сауна</h2>
+                <p className="text-xl text-muted-foreground">
+                  Натуральные веники и специальные фиточаи для русской бани. 
+                  Березовые, пихтовые, можжевеловые, дубовые и крапивные веники.
+                </p>
+                <Link
+                  to="/bath-sauna"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-all hover:scale-105"
+                >
+                  Смотреть веники и чаи
+                  <Icon name="ArrowRight" size={20} />
+                </Link>
+              </div>
+              <div className="flex-1 grid grid-cols-2 gap-4">
+                <div className="bg-card p-4 rounded-lg text-center">
+                  <div className="text-4xl mb-2">🌲</div>
+                  <p className="font-semibold">Хвойные веники</p>
+                </div>
+                <div className="bg-card p-4 rounded-lg text-center">
+                  <div className="text-4xl mb-2">🍃</div>
+                  <p className="font-semibold">Березовые</p>
+                </div>
+                <div className="bg-card p-4 rounded-lg text-center">
+                  <div className="text-4xl mb-2">☕</div>
+                  <p className="font-semibold">Фиточаи</p>
+                </div>
+                <div className="bg-card p-4 rounded-lg text-center">
+                  <div className="text-4xl mb-2">🔥</div>
+                  <p className="font-semibold">Для бани</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">

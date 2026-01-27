@@ -8,6 +8,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Home from "./pages/Home";
 import Catalog from "./pages/Catalog";
+import BathSauna from "./pages/BathSauna";
 import About from "./pages/About";
 import Delivery from "./pages/Delivery";
 import Contacts from "./pages/Contacts";
@@ -31,6 +32,7 @@ const App = () => (
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/catalog" element={<Catalog />} />
+                <Route path="/bath-sauna" element={<BathSauna />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/delivery" element={<Delivery />} />
                 <Route path="/contacts" element={<Contacts />} />
