@@ -21,7 +21,7 @@ export const products: Product[] = [
     id: '3',
     name: 'Чага березовая',
     price: 450,
-    image: 'https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/8474bc64-7493-4dff-ad18-8b71cc4c6a31.jpg',
     description: 'Лечебный березовый гриб с мощным эффектом',
     category: 'грибы'
   },
@@ -37,7 +37,7 @@ export const products: Product[] = [
     id: '5',
     name: 'Кедровая живица',
     price: 780,
-    image: 'https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/49aae415-38e8-498a-9f8b-a38a21587b0c.jpg',
     description: 'Натуральная смола кедра для здоровья и энергии',
     category: 'живица'
   },
