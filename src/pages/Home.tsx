@@ -144,6 +144,82 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="py-16 bg-card">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl font-bold mb-4">Отзывы наших покупателей</h2>
+            <p className="text-muted-foreground text-lg">
+              Тысячи довольных клиентов по всей России
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            <div className="bg-background p-6 rounded-xl shadow-lg hover:shadow-xl transition-all hover:scale-105">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center text-2xl">
+                  👨
+                </div>
+                <div>
+                  <h4 className="font-bold text-lg">Алексей М.</h4>
+                  <div className="flex gap-1 text-yellow-500">
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                  </div>
+                </div>
+              </div>
+              <p className="text-muted-foreground italic">
+                "Иван-чай просто невероятный! Забыл про бессонницу. Заказываю уже третий раз. Спасибо деду Саяну за качество!"
+              </p>
+            </div>
+
+            <div className="bg-background p-6 rounded-xl shadow-lg hover:shadow-xl transition-all hover:scale-105">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-12 h-12 bg-secondary/10 rounded-full flex items-center justify-center text-2xl">
+                  👩
+                </div>
+                <div>
+                  <h4 className="font-bold text-lg">Марина К.</h4>
+                  <div className="flex gap-1 text-yellow-500">
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                  </div>
+                </div>
+              </div>
+              <p className="text-muted-foreground italic">
+                "Саган-дайля — это находка! Энергия на весь день без кофе. Всей семье понравилось. Рекомендую всем!"
+              </p>
+            </div>
+
+            <div className="bg-background p-6 rounded-xl shadow-lg hover:shadow-xl transition-all hover:scale-105">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center text-2xl">
+                  👴
+                </div>
+                <div>
+                  <h4 className="font-bold text-lg">Владимир П.</h4>
+                  <div className="flex gap-1 text-yellow-500">
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                    <Icon name="Star" size={16} fill="currentColor" />
+                  </div>
+                </div>
+              </div>
+              <p className="text-muted-foreground italic">
+                "Чага — лучшее что я пробовал! Иммунитет укрепился, чувствую себя на 20 лет моложе. Натурально и эффективно!"
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className="py-20 bg-gradient-to-r from-primary/20 via-secondary/20 to-accent/20 relative overflow-hidden">
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-10 left-10 text-9xl">🌲</div>
