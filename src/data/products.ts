@@ -29,7 +29,7 @@ export const products: Product[] = [
     id: '4',
     name: 'Таежный сбор №1',
     price: 420,
-    image: 'https://images.unsplash.com/photo-1517451330947-7809dead78d5?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/bucket/05d0a26f-7ca3-46cd-b25e-841b6ea18e60.jpg',
     description: 'Смесь таежных трав для укрепления иммунитета',
     category: 'сборы'
   },
