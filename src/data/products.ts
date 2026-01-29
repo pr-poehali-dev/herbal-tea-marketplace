@@ -5,7 +5,7 @@ export const products: Product[] = [
     id: '1',
     name: 'Иван-чай классический',
     price: 350,
-    image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/71f9b924-ad76-4727-aeb4-c65300f5f79b.jpg',
     description: 'Традиционный ферментированный иван-чай с насыщенным вкусом',
     category: 'чай'
   },
@@ -53,7 +53,7 @@ export const products: Product[] = [
     id: '7',
     name: 'Иван-чай с таежными ягодами',
     price: 420,
-    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7f1cbae6-8634-42a4-ba03-b8efadccdf19.jpg',
     description: 'Иван-чай с добавлением брусники и морошки',
     category: 'чай'
   },
@@ -61,7 +61,7 @@ export const products: Product[] = [
     id: '8',
     name: 'Курильский чай',
     price: 380,
-    image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/21e5224a-a161-45a2-9b91-eb035648145f.jpg',
     description: 'Лапчатка кустарниковая для пищеварения',
     category: 'чай'
   },
@@ -109,7 +109,7 @@ export const products: Product[] = [
     id: '14',
     name: 'Фиточай "Банный жар"',
     price: 320,
-    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/1b031efa-3b7d-4d9f-8b38-49f5d355c572.jpg',
     description: 'Бодрящий чай для бани с мятой, чабрецом и липой',
     category: 'фиточай для бани'
   },
@@ -117,7 +117,7 @@ export const products: Product[] = [
     id: '15',
     name: 'Фиточай "Таежный пар"',
     price: 350,
-    image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/f66e8e3a-5595-4f45-82dd-6e6244b4f129.jpg',
     description: 'Сбор хвойных трав для легкого дыхания в парной',
     category: 'фиточай для бани'
   },
@@ -125,7 +125,7 @@ export const products: Product[] = [
     id: '16',
     name: 'Фиточай "Медовый вечер"',
     price: 380,
-    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/1a4a0e3c-acbc-462b-8adb-40301ceb6932.jpg',
     description: 'Успокаивающий чай после бани с медуницей и душицей',
     category: 'фиточай для бани'
   },
@@ -133,7 +133,7 @@ export const products: Product[] = [
     id: '17',
     name: 'Фиточай "Богатырский"',
     price: 420,
-    image: 'https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/be995abf-a460-489e-899f-0953920b7538.jpg',
     description: 'Энергетический сбор с саган-дайля и женьшенем для бани',
     category: 'фиточай для бани'
   },
@@ -141,7 +141,7 @@ export const products: Product[] = [
     id: '18',
     name: 'Фиточай "Горный ручей"',
     price: 340,
-    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7a4e65ed-160e-40d1-8838-47438befd628.jpg',
     description: 'Освежающий чай с мятой и лимонником для бани',
     category: 'фиточай для бани'
   },
