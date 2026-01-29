@@ -232,5 +232,21 @@ export const products: Product[] = [
     image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7b88e8c4-7f84-492f-a906-6c15063fdb77.jpg',
     description: 'Дикий лесной орех, богатый витаминами',
     category: 'орехи'
+  },
+  {
+    id: '30',
+    name: 'Лисички сушеные',
+    price: 520,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/a2c494ed-df50-43bc-bef3-d71dba401463.jpg',
+    description: 'Отборные сушеные лисички из сибирской тайги. Идеальны для супов и жарки',
+    category: 'грибы'
+  },
+  {
+    id: '31',
+    name: 'Опята сушеные',
+    price: 480,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/2b04752c-ae8f-4f34-b775-a99c829a67f4.jpg',
+    description: 'Ароматные сушеные опята для настоящих ценителей грибов',
+    category: 'грибы'
   }
 ];
