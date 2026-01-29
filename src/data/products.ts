@@ -21,7 +21,7 @@ export const products: Product[] = [
     id: '3',
     name: 'Чага березовая',
     price: 450,
-    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/8474bc64-7493-4dff-ad18-8b71cc4c6a31.jpg',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/bucket/f4886979-4631-4952-8f7a-fd3314662ebd.jpg',
     description: 'Лечебный березовый гриб с мощным эффектом',
     category: 'грибы'
   },
