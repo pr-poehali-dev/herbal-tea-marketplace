@@ -269,7 +269,7 @@ export const products: Product[] = [
     id: '34',
     name: 'Рыжики соленые',
     price: 750,
-    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7b0ed349-3bee-47f5-9b37-48e60a5e0fe3.jpg',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/bucket/2f6ecc7e-91f2-44bb-8a16-0ea561593b89.jpg',
     description: 'Царские грибы! Соленые рыжики — деликатес для настоящих гурманов',
     category: 'соления'
   }
