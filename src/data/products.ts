@@ -261,7 +261,7 @@ export const products: Product[] = [
     id: '33',
     name: 'Грузди соленые',
     price: 680,
-    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/400a1f6a-b5a0-487c-9a09-ba53d84ef90c.jpg',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/bucket/0b6152c3-f226-461e-9ae9-c227e21c4e1b.jpg',
     description: 'Классические соленые грузди по старинному рецепту. Хрустящие и ароматные',
     category: 'соления'
   },
