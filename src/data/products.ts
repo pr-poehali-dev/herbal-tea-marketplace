@@ -248,5 +248,13 @@ export const products: Product[] = [
     image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/2b04752c-ae8f-4f34-b775-a99c829a67f4.jpg',
     description: 'Ароматные сушеные опята для настоящих ценителей грибов',
     category: 'грибы'
+  },
+  {
+    id: '32',
+    name: 'Папоротник Орляк соленый',
+    price: 550,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/d00c8c83-7cad-4433-abbf-2d90af228ee2.jpg',
+    description: 'Деликатес из тайги! Соленые побеги папоротника орляк с нежным вкусом',
+    category: 'соления'
   }
 ];
