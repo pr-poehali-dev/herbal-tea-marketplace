@@ -256,5 +256,21 @@ export const products: Product[] = [
     image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/d00c8c83-7cad-4433-abbf-2d90af228ee2.jpg',
     description: 'Деликатес из тайги! Соленые побеги папоротника орляк с нежным вкусом',
     category: 'соления'
+  },
+  {
+    id: '33',
+    name: 'Грузди соленые',
+    price: 680,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/400a1f6a-b5a0-487c-9a09-ba53d84ef90c.jpg',
+    description: 'Классические соленые грузди по старинному рецепту. Хрустящие и ароматные',
+    category: 'соления'
+  },
+  {
+    id: '34',
+    name: 'Рыжики соленые',
+    price: 750,
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/files/7b0ed349-3bee-47f5-9b37-48e60a5e0fe3.jpg',
+    description: 'Царские грибы! Соленые рыжики — деликатес для настоящих гурманов',
+    category: 'соления'
   }
 ];
