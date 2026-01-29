@@ -45,7 +45,7 @@ export const products: Product[] = [
     id: '6',
     name: 'Родиола розовая (золотой корень)',
     price: 650,
-    image: 'https://images.unsplash.com/photo-1517451330947-7809dead78d5?w=500',
+    image: 'https://cdn.poehali.dev/projects/e5392123-9506-4d3a-a0b1-7bc7a59051cc/bucket/94560279-f863-4ae1-8db1-2750563f23ca.jpg',
     description: 'Адаптоген для стрессоустойчивости и выносливости',
     category: 'травы'
   },
